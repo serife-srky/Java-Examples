@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Þerife
+ *
+ */
+package Paint;
